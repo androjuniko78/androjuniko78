@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andro (24)
+- 👋 Hi, I’m Andro. I'm new to GitHub
 - 👀 I’m interested in coffee-making and coding
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on ...
